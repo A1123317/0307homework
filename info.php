@@ -7,9 +7,9 @@ $grade=$_GET["grade"];
 
 
 
-echo "姓名 :"."$name"."<br>";
-echo "學號 :"."$id"."<br>";
-echo "飲食 :"."$diet"."<br>";
-echo "年級 :"."$grade"."<br>";
+echo "您的姓名 :"."$name"."<br>";
+echo "您的學號 :"."$id"."<br>";
+echo "您的飲食 :"."$diet"."<br>";
+echo "您的年級 :"."$grade"."<br>";
 
 ?>
